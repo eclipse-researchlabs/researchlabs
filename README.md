@@ -1,4 +1,4 @@
-# Eclipse Research Labs
+# Eclipse&reg; Research Labs
 
 Eclipse Research Labs is a place where the [Eclipse Research](https://www.eclipse.org/org/research/) community can come together to collaborate in open source.
 
